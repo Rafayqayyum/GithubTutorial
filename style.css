@@ -12,3 +12,10 @@ h1{
     padding-top:5px;
     
 }
+body{
+    background-color:#24292D ;
+}
+h3{
+    color:#ffffff;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
